@@ -25,6 +25,10 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "resolutions": {
+    "postcss": "^8.3.6",
+    "postcss-safe-parser": "^5.0.2"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
